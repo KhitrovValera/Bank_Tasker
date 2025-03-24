@@ -38,11 +38,11 @@
 
 | Главный экран | Редактирование задачи | Галерея изображений |
 |--------------|---------------------|------------------|
-| ![Главный экран]!![изображение](https://github.com/user-attachments/assets/ca36b6bd-fccb-4bdf-ac1d-7fecf2574ebd)
+| [изображение](https://github.com/user-attachments/assets/ca36b6bd-fccb-4bdf-ac1d-7fecf2574ebd)
 
 
- | ![Редактирование]![изображение](https://github.com/user-attachments/assets/7f616262-633c-4daa-a3e7-40406ae9780b)
- | ![Галерея]![изображение](https://github.com/user-attachments/assets/a9b5ff9e-00dc-47b0-affe-76359824dd87)
+ | [изображение](https://github.com/user-attachments/assets/7f616262-633c-4daa-a3e7-40406ae9780b)
+ | (https://github.com/user-attachments/assets/a9b5ff9e-00dc-47b0-affe-76359824dd87)
  |
 
 
