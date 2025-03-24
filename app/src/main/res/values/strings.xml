@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">lab2pluis</string>
+    <string name="name">name</string>
+    <string name="date">date</string>
+    <string name="type">type</string>
+    <string name="Ldate">Дата</string>
+    <string name="Lname">Название</string>
+    <string name="Ltype">Тип</string>
+    <string name="Ldone">Статус</string>
+    <string name="balance">Текущий баланс:</string>
+    <string name="eeee">Список задач</string>
+    <string name="eeee2">Галерея</string>
+    <string name="name_Task">Название задачи</string>
+    <string name="operation">Операция</string>
+    <string name="save">Сохранить</string>
+    <string name="plus_string">+</string>
+    <string name="delite_button">Удалить изображение</string>
+    <string name="into_gallery">К галерее</string>
+    <string name="into_task">К задачам</string>
+</resources>
