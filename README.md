@@ -40,7 +40,7 @@
 
 | Главный экран | Редактирование задачи | Галерея изображений |
 |--------------|---------------------|------------------|
-| ![Главный экран](https://github.com/user-attachments/assets/ca36b6bd-fccb-4bdf-ac1d-7fecf2574ebd) | ![Редактирование]![изображение](https://github.com/user-attachments/assets/6b1c205f-96b4-4cfe-89c6-75e7b6c8c45a)| ![Галерея]![изображение](https://github.com/user-attachments/assets/c8d40765-ebae-4f33-a5be-aa29491cbdd5)|
+| ![Главный экран](https://github.com/user-attachments/assets/ca36b6bd-fccb-4bdf-ac1d-7fecf2574ebd) | ![Редактирование][изображение](https://github.com/user-attachments/assets/6b1c205f-96b4-4cfe-89c6-75e7b6c8c45a)| ![Галерея][изображение](https://github.com/user-attachments/assets/c8d40765-ebae-4f33-a5be-aa29491cbdd5)|
 
 
 ## Выводы
