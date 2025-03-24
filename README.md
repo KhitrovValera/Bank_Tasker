@@ -36,14 +36,11 @@
 
 ## Скриншоты работы приложения
 
+## Скриншоты работы приложения
+
 | Главный экран | Редактирование задачи | Галерея изображений |
 |--------------|---------------------|------------------|
-| ![Главный экран][изображение](https://github.com/user-attachments/assets/ca36b6bd-fccb-4bdf-ac1d-7fecf2574ebd)
-
-
- | [изображение](https://github.com/user-attachments/assets/7f616262-633c-4daa-a3e7-40406ae9780b)
- | (https://github.com/user-attachments/assets/a9b5ff9e-00dc-47b0-affe-76359824dd87)
- |
+| ![Главный экран](https://github.com/user-attachments/assets/ca36b6bd-fccb-4bdf-ac1d-7fecf2574ebd) | ![Редактирование]![изображение](https://github.com/user-attachments/assets/6b1c205f-96b4-4cfe-89c6-75e7b6c8c45a)| ![Галерея]![изображение](https://github.com/user-attachments/assets/c8d40765-ebae-4f33-a5be-aa29491cbdd5)|
 
 
 ## Выводы
